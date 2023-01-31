@@ -1,5 +1,4 @@
 # 50-days-50-DataScience-Projects
-These projects are the projects contain in UDEMY 50-days-50-DataScience-Projects Course.
 
 # In This repo, I will be going through the projects one after the other as listed below:
 
