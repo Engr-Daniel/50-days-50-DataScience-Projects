@@ -1,6 +1,6 @@
 # 50-days-50-DataScience-Projects
 
-# In This repo, I will be going through the projects one after the other as listed below:
+**In This repo, I will be going through the projects one after the other as listed below:**
 
 
 
